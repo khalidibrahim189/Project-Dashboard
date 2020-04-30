@@ -1,3 +1,26 @@
 .fa-check {
     margin-left: 20px !important;
 }
+
+
+.jumbotron{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1)), url(../image/mt-fuji-japan-1108701.jpg);
+    background-size: cover;
+    height: 500px !important;
+}
+
+.jumbotron .display-4{
+    margin-top: 100px !important;
+    color: azure;
+    /* margin-left: 400px !important; */
+    text-align: center;
+    font-weight: bold;
+}
+
+.jumbotron .lead{
+    /* margin-top: 100px !important; */
+    /* margin-left: 200px !important; */
+    text-align: center;
+    color: azure;
+    font-weight: bold;
+}
